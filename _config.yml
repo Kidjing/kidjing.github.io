@@ -105,3 +105,13 @@ deploy:
   type: git
   repo: git@github.com:Kidjing/kidjing.github.io.git
   branch: pages
+
+# SEO
+#
+# nofollow
+nofollow:
+  enable: true
+  field: site
+  exclude:
+    - 'exclude1.com'
+    - 'exclude2.com'

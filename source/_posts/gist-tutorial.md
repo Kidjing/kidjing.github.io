@@ -1,5 +1,7 @@
 ---
 title: gists 教程
+tag: gists
+categories: tools
 top_img: https://miro.medium.com/max/1024/1*9igtxjzMnJWCjrwgELXEYg.jpeg
 cover: https://miro.medium.com/max/1024/1*9igtxjzMnJWCjrwgELXEYg.jpeg
 ---
