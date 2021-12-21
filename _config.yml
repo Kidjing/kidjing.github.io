@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Kidjing/blog.git
-  branch: master
+  repo: git@github.com:Kidjing/kidjing.github.io.git
+  branch: pages
