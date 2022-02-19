@@ -36,7 +36,7 @@ JS由核心ES、文档对象模型DOM、浏览器对象模型BOM构成。
 js代码加载执行顺序：
 ![js代码加载执行顺序](https://segmentfault.com/img/bVWhRl/view?w=801&h=814)
 
-- crossorigin: 配置相关请求的 CORS(跨源资源共享)设置。默认不使用 CORS。crossorigin= "anonymous" 配置文件请求不必设置凭据标志。crossorigin="use-credentials" 设置凭据 标志，意味着出站请求会包含凭据。
+- crossorigin: 配置相关请求的 CORS(跨源资源共享)设置。默认不使用 CORS。crossorigin= "anonymous" 配置文件请求不必设置凭据标志。crossorigin="use-credentials" 设置凭据标志，意味着出站请求会包含凭据。
 - integrity: 允许比对接收到的资源和指定的加密签名以验证子资源完整性。这个属性可以用于确保内容分发网络不会提供恶意内容。
 - language: 废弃。
 - src: 表示包含要执行的代码的外部文件。
@@ -73,3 +73,13 @@ ECMAScript 的语法很大程度上借鉴了 C 语言和其他类 C 语言，如
 ```js
 "use strict";
 ```
+
+严格模式用于选择以更严格的条件检查 JavaScript 代码错误，可以应用到全局，也可以应用到函数内部。严格模式的好处是可以提早发现错误，因此可以捕获某些 ECMAScript 问题导致的编程错误。
+
+1）变量
+
+严格模式下如何创建变量以及合何时会创建变量都会发生变化，第一个变化是不允许意外创建全局变量，另一个变化是无法在变量上调用delete。严格模式也对变量名增加了限制，具体来说不允许变量名为implements、interface等一些保留字。
+
+2）对象
+
+在
