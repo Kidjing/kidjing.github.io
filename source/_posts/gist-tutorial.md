@@ -2,8 +2,8 @@
 title: gists 教程
 tag: gists
 categories: tools
-top_img: https://miro.medium.com/max/1024/1*9igtxjzMnJWCjrwgELXEYg.jpeg
-cover: https://miro.medium.com/max/1024/1*9igtxjzMnJWCjrwgELXEYg.jpeg
+top_img: ../img/gist-cover.jpeg
+cover: ../img/gist-cover.jpeg
 ---
 
 Github 作为代码分享平台在开发者中非常流行。此平台托管了包括游戏、书籍以至于字体在内的一千两百多万个项目（现在更多），这使其成为互联网上最大的代码库。

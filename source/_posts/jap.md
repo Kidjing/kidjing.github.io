@@ -2,8 +2,8 @@
 title: JavaScript 高级程序设计
 tag: 读书笔记
 categories: books
-top_img: https://www.zhaozf.site/assets/blogImg/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89_%E5%B0%81%E4%B8%80.jpg
-cover: https://www.zhaozf.site/assets/blogImg/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89_%E5%B0%81%E4%B8%80.jpg
+top_img: ../img/jap-cover.jpeg
+cover: ../img/jap-cover.jpeg
 ---
 
 ## 什么是JavaScript
