@@ -1,6 +1,6 @@
 ---
 title: JavaScript 高级程序设计
-tag: 读书笔记
+tag: ['读书笔记','FE']
 categories: books
 top_img: ../img/jap-cover.jpeg
 cover: ../img/jap-cover.jpeg
