@@ -24,8 +24,6 @@ cover: ../img/unit-test.png
 
 Jasmine 是一个 JavaScript 测试框架，支持称为行为驱动开发（简称 BDD ）的软件开发实践。它是测试驱动开发( TDD )的一种特殊形式 。Jasmine 和一般的 BDD 一样以人类可读的格式描述测试，以便非技术人员能够理解正在测试的内容。
 
-![jasmine](http://www.srcmini.com/wp-content/uploads/2020/04/Screen-Shot-2019-03-30-at-12.39.02-PM.png)
-
 Jasmine 的优点包括：
 
 - 由于几乎为零的外部依赖关系, 从而降低了开销
@@ -37,8 +35,6 @@ Jasmine 的优点包括：
 ### Jest
 
 Jest 是 Facebook 团队构建和维护的 JavaScript 测试框架，是基于 Jasmine 的 JavaScript 单元测试框架。它是基于 React 的应用程序的首选框架，但它不限于与React一起使用。
-
-![jest](http://www.srcmini.com/wp-content/uploads/2020/04/Screen-Shot-2019-03-31-at-11.24.05-AM-e1554011919452.png)
 
 Jest 的一些功能包括：
 
